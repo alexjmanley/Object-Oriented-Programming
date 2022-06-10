@@ -3,7 +3,6 @@ package exercise1311;
 public class Octagon extends GeometricObject implements Comparable<Octagon>, Cloneable{
 	
 			double side = 0; 
-			double area = (2 + (4 / Math.sqrt(2)) * side * side);
 	
 			Octagon(){
 			}
@@ -31,7 +30,7 @@ public class Octagon extends GeometricObject implements Comparable<Octagon>, Clo
 		}
 		@Override
 		public double getArea() {
-			return area;
+			return (2 + (4 / Math.sqrt(2)) * side * side);
 		}
 		@Override
 		public double getPerimeter() {
