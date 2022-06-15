@@ -1,9 +1,6 @@
-package finalprojectoo;
+package finalf;
 
 public interface Drink {
-			public String name(); 
-			public String color(); 
-			public String container(); 
-			public String description(); 
-			public String drink(); 
+	public String description(); 
+	public String drink(); 
 }
