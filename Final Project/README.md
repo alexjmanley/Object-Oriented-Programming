@@ -7,8 +7,8 @@ descritpion and drink methods are activated.
 
 I built this code to show my skills with java and what I have learned during class.
 
-The files needed to run the code are Drink.java, Coke.java, ExecuteFinalProject.java, Powerade.java, Sprite.java, and Water.java. Put all the files into the same package 
-and run the ExecuteFinalProject.java file. 
+The files needed to run the code are Drink.java, Coke.java, ExecuteFinalProject.java, Powerade.java, Sprite.java, and Water.java. Put all the files into the same package and run the ExecuteFinalProject.java file. 
+[an image of what the program looks like running](FinalProjectSH.png)
 
 This portion of the code I am proud of because I think it shows a wide variaty of skill. 
 
