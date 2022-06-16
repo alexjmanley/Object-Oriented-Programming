@@ -34,7 +34,7 @@ public class ExecuteFinalProject {
 			System.out.println("Enter balance amount you would like, ex. 5.00 :");
 		double balance = input.nextDouble();
 		
-		while ((balance > 0) && (coke.size() > 0 || dietCoke.size() > 0 || sprite.size() > 0 
+		while ((balance >= .50) && (coke.size() > 0 || dietCoke.size() > 0 || sprite.size() > 0 
 				|| powerade.size() > 0 || water.size() > 0)) {
 			System.out.printf("Vending Machine Balance: $%.2f", balance);
 			System.out.println();
