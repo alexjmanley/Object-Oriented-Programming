@@ -11,7 +11,7 @@ The files needed to run the code are Drink.java, Coke.java, ExecuteFinalProject.
 [an image of what the program looks like running](FinalProjectSH.png)
 
 This portion of the code I am proud of because I think it shows a wide variaty of skill. 
-
+```
 try {
 			switch (input.nextInt()) {
 			case 1: if ((balance - 1.00) >= 0) {
@@ -58,3 +58,4 @@ try {
 			System.out.println();
 				}
 			}
+```
